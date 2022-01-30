@@ -1,5 +1,5 @@
 ### Hey There 🖐️, I'm João Augusto!!
-- 👨‍💻 || Currently, I'm studying Javascript and Node.js.
+- 👨‍💻 || Currently, I'm studying Javascript and React.
 - 🎯 || My goal is to become Full Stack Developer.
 <div align="left">
   <a href="https://github.com/augustodevjs">
