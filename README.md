@@ -1,21 +1,34 @@
-### Hey There 🖐️, I'm João Augusto!!
-- 👨‍💻 || Currently, I'm studying Javascript and React.
-- 🎯 || My goal is to become Full Stack Developer.
+# Hey There, I'm João Augusto!!
+
+## Some facts about me 👨🏻‍💻
+
+- 🌳 I’m currently studying Typescript and React.js.
+
+- 📈 My goal is to become a Full Stack Developer capable of solving real problems. 
+
+- ❤️ Always looking to be better than the day before, have continuous growth and impact people's lives.
+
+- 🤔 I’m looking for help with learning new technologies 
+
+- 📚 I love studying new foreign languages like Japanese and English.
+
+-  📫 How to reach me: joaoaugustojob99@gmail.com.
+
 <div align="left">
   <a href="https://github.com/augustodevjs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augustodevjs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustodevjs&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  ### Languages and Tools:
-<div style="display: inline_block">
-  <img align="center" alt="augusto-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="augusto-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="augusto-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="augusto-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Augusto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-   ### Connect with me:
+   ## Connect with me:
 
  <div> 
   <a href="https://www.instagram.com/joao_augusto_001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,5 +37,3 @@
    <p align="left">
 </p>
 </div>
-
-
