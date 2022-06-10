@@ -2,7 +2,7 @@
 
 ## Some facts about me 👨🏻‍💻
 
-- 🌳 I’m currently studying React.js with Typescript and Node.js.
+- 🌳 I’m currently studying React.js, Next.js and Typescript
 
 - 📈 My goal is to become a Full Stack Developer capable of solving real problems. 
 
