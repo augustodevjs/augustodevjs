@@ -2,7 +2,7 @@
 
 ## Some facts about me 👨🏻‍💻
 
-- 🌳 I’m currently workin on the NDS and Polo de Inovação with React.js, Next.js and Typescript.
+- 🌳 I’m currently working on the NDS and Polo de Inovação with React.js, Next.js and Typescript.
 
 - 📈 My goal is to become a Full Stack Developer capable of solving real problems.
 
