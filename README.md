@@ -4,7 +4,7 @@
 
 - 🌳 I’m currently working on the NDS with React.js and Typescript.
 
-- 📈 My goal is to become a Android Developer
+- 📈 My goal is to become a Android Developer.
 
 - ❤️ Always looking to be better than the day before, have continuous growth and impact people's lives.
 
