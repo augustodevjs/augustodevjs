@@ -41,6 +41,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs)
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 
@@ -50,7 +51,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-    ![Linux](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   
 
 **Ferramentas:**
@@ -58,6 +59,5 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
     
