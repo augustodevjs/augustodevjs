@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
+<h3>Hello, welcome to my Github!:wave:</h3>
 
 <p align="left"> 
-  Me chamo João Augusto, tenho 20 anos. Estou me formando em Ciência da Computação no IFCE de Maracanáu, com foco na Engenharia de Software</strong>.
+  My name is João Augusto, I'm 20 years old. I'm graduating in Computer Science at IFCE in Maracanáu, with a focus on Software Engineering.</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
+  Currently, I Work as <strong>Front-end Developer</strong>.
 </p>
 
 <p align="left">
-  Entre em contato comigo através das minhas redes sociais: ⤵️
+  Feel free to reach out to me through my social media platforms:: ⤵️
 </p>
 
 <div align="left">
@@ -28,9 +28,9 @@
 
 ---
 
-<h3>Minhas Skills :rocket:</h3>
+<h3>Technical Skills :rocket:</h3>
 
-  **Aplicações e Dados:**
+  **Tecnologies:**
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -54,7 +54,7 @@
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   
 
-**Ferramentas:**
+**Tools:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
