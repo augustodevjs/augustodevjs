@@ -32,16 +32,14 @@
 
   **Tecnologies:**
   
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![NET](  https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs)
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 
