@@ -32,6 +32,7 @@
 
   **Tecnologies:**
   
+  ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NET](  https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
