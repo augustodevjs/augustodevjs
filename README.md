@@ -3,10 +3,7 @@
 <h3>Hello, welcome to my Github!:wave:</h3>
 
 <p align="left"> 
-  My name is João Augusto, I'm 20 years old. I'm graduating in Computer Science at IFCE in Maracanáu, with a focus on Software Engineering.</strong>.
-  </br>
-  </br>
-  Currently, I Work as <strong>Front-end Developer</strong>.
+  My name is João Augusto, I'm Full Stack Developer. I'm graduating in Computer Science at IFCE in Maracanáu, with a focus on Software Engineering.</strong>.
 </p>
 
 <p align="left">
