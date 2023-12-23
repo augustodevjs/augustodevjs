@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3>Hello, welcome to my Github!:wave:</h3>
+<h3>Hello, welcome to my Github!</h3>
 
 <p align="left"> 
   My name is João Augusto, I'm Full Stack Developer. I'm graduating in Computer Science at IFCE in Maracanáu, with a focus on Software Engineering.</strong>.
